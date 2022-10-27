@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+ color: blue;
+}
+.boy{
+    color: brown;
+}
+#username{
+    color:gold
+}
+
+body{
+    background-color: grey;
+    color: white;
+}
+
+.teaching{
+    position: relative;
+    left: 50px;
+    border: 2px solid red;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: 2px dashed green;
+    text-align: center;
+}
+
+.relative{
+    position: relative;
+    width: 80%;
+    height: 120px;
+    border: 1px solid black;
+}
+
+.absolute{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 40%;
+    border: 2px solid white;
+}

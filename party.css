@@ -1,0 +1,59 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://bit.ly/3FcDRJX");
+    margin-left: 10px;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.party {
+    color: white;
+    font-style: italic;
+}
+ul{
+    float: right;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+}
+.kok{
+    float: left;
+
+}
+.goat{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    transform: translate(-30%,-40%);
+}
+button{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-30%,-40%);
+    background-color: darkorange;
+    color: white;
+    width: 15%;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.kabi{
+    font-size: 20px;
+    font-style: italic;
+    font-display: flex;
+    font-weight: lighter;
+    text-align: center;
+
+}
+.riri{
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

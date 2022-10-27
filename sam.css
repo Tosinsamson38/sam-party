@@ -1,0 +1,54 @@
+body{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+}
+.chee{
+    font-size: small;
+}
+#bah{
+    color: darkgray;
+    font-size:small;
+}
+input{
+    width: 100%;
+    height: 32px;
+    padding: 0px 10px;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    background-color: whitesmoke; 
+}
+
+
+input:focus{
+    border: 1px solid green;
+}
+.signin{
+    color: white;
+    background-color: green;
+    width: 100%;
+    margin-top: 5%;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.signin:hover{
+    background-color: red;
+}
+.qwerty{
+    text-align: center;
+    color: black;
+}
+.kk{
+    color: darkslategrey;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
